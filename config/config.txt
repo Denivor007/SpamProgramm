@@ -1,0 +1,7 @@
+default_csv E:\programs\PycharmProjects\SpamProgramm\numbers.csv
+default_csv_key numbers
+messages_file E:\programs\PycharmProjects\SpamProgramm\config\messages.txt
+default_delay 10
+last_client_number 0
+default_start 0
+default_count 0
